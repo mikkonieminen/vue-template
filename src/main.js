@@ -7,6 +7,9 @@ import VueResource from 'vue-resource';
 import Home from 'components/Home';
 import App from './App';
 
+window.jQuery = require('jquery');
+require('bootstrap-sass');
+
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
