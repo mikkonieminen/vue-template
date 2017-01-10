@@ -1,6 +1,6 @@
-# Template // Todo replace with actual project name
+# Vue.js project template with routing and SASS-styling
 
-> A simple interface to assist you in becoming a true Mentula
+> An improved Vue template of the original Vue Webpack template. Includes routing and SASS-styling with Bootstrap 3
 
 ## Build Setup
 
@@ -20,5 +20,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
